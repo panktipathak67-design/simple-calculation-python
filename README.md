@@ -3,7 +3,6 @@
 A beginner-friendly **Simple Calculator** program developed using Python.  
 This project demonstrates the use of **`while` loop, `match-case`, conditional statements, user input, and basic arithmetic operations**.
 
----
 
 ## 📌 Project Description
 
@@ -19,7 +18,6 @@ The program takes two numbers from the user and provides the following operation
 
 The calculator continues running until the user selects the **Exit** option.
 
----
 
 ## 🚀 Features
 
@@ -33,7 +31,6 @@ The calculator continues running until the user selects the **Exit** option.
 - Menu selection using Python `match-case`
 - Invalid choice handling
 
----
 
 ## 🛠️ Technologies Used
 
@@ -44,8 +41,25 @@ The calculator continues running until the user selects the **Exit** option.
 - User input
 - Basic arithmetic operators
 
----
 
+📚 Concepts Learned
+Through this project, I practiced:
+Python variables
+Taking user input
+Type conversion using int()
+Arithmetic operators
+while loops
+match-case statements
+if-else conditions
+Error handling for division by zero
+
+
+▶️ How to run
+1. Clone the Repository
+2. Open the Project
+3. Run the Program
+
+   
 ## 📂 Project Structure
 
 ```text
