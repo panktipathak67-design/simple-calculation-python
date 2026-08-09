@@ -1,5 +1,6 @@
 # P2: Simple Calculation
 
+print("\n--- Simple Calculator ---\n")
 a = int(input("Enter the number for a: "))
 b = int(input("Enter the number for b: "))
 
